@@ -5,8 +5,8 @@
 }
 
 header {
-    background-color: #9370DB;
-    box-shadow: 0px 3px 10pxm #9370DB;
+    background-color: #c9bbe4;
+    box-shadow: 0px 3px 10pxm #c9bbe4;
 }
 
 .nav-bar {
@@ -53,6 +53,7 @@ header {
     background-color: #2f106e;
     padding: 10px 15px;
     border-radius: 5px;
+    color: #fff;
 }
 
 .login-button button a {
